@@ -1,0 +1,130 @@
+1|Taiwanese Han
+2|Ami
+3|Hakka
+5|Biaka
+6|Mbuti
+7|Danes
+9|San Francisco Chinese
+10|Japanese
+11|Yakut
+12|Nasioi speakers
+13|Maya,Yucatec
+14|Surui,Rondonia
+15|Ethiopian Jews
+16|Yemenite Jews
+17|Adygei
+18|Finns
+19|Russians
+20|Mixed Europeans
+21|Atayal
+22|Cambodian
+23|Plains Amerindians
+25|Southwest Amerindians
+26|Mexican Pima
+27|Ticuna
+28|Karitiana
+36|Yoruba
+40|Kachari
+47|Druze
+55|Guihiba speakers
+57|Irish
+63|Micronesians
+69|Peruvian Quechuan
+72|Samoans
+77|Thoti
+84|Papuan New Guinean
+96|Roman Jews
+97|Malaysians
+98|Samaritans
+99|Ibo
+100|Hausa
+101|African Americans
+487|Chagga
+488|Khanty
+489|Komi-Zyrian
+490|Ashkenazi Jews
+491|Chuvash
+854|Masai
+936|Koreans
+1467|Mandenka,HGDP-CEPH
+1469|San,HGDP-CEPH
+1471|Mozabite,HGDP-CEPH
+1474|Palestinian,HGDP-CEPH
+1475|Brahui,HGDP-CEPH
+1476|Balochi,HGDP-CEPH
+1477|Hazara,HGDP-CEPH
+1478|Makrani,HGDP-CEPH
+1479|Sindhi,HGDP-CEPH
+1481|Kalash,HGDP-CEPH
+1482|Burusho,HGDP-CEPH
+1484|Tujia,HGDP-CEPH
+1485|Yizu,HGDP-CEPH
+1486|Miaozu,HGDP-CEPH
+1487|Oroqen,HGDP-CEPH
+1488|Daur,HGDP-CEPH
+1489|Mongola,HGDP-CEPH
+1490|Hezhen,HGDP-CEPH
+1491|Xibo,HGDP-CEPH
+1493|Dai,HGDP-CEPH
+1494|Lahu,HGDP-CEPH
+1495|She,HGDP-CEPH
+1496|Naxi,HGDP-CEPH
+1497|Tu,HGDP-CEPH
+1500|Cambodian,HGDP-CEPH
+1501|Papuan,HGDP-CEPH
+1503|French,HGDP-CEPH
+1504|Basques,HGDP-CEPH
+1505|Sardinian,HGDP-CEPH
+1507|Tuscan,HGDP-CEPH
+1508|Orcadians,HGDP-CEPH
+1513|Amerindian,HGDP-CEPH
+1530|Russians,Archangel'sk
+1773|Sandawe
+1819|Bantu(Kenya),HGDP-CEPH
+1853|Lao Long
+1854|Keralite
+2023|Hungarians
+2029|European Americans(CEU)
+2088|Japanese
+2089|Chinese Han(CHB)
+2137|Negroid Makrani
+2138|Somali
+2139|Mohannas
+2140|Hazaras
+2429|Khazaks
+2431|Inner Mongolians
+2432|Baima Dee
+2433|Qiang
+2434|Khamba Tibetan
+2443|Li
+2586|Zaramo
+2765|Kuwaiti
+2766|Palestinian Arabs
+2767|Greeks
+2768|Sardinian
+2769|Italians
+2770|Lisongo
+2873|Pathan
+3386|African Americans
+3470|European Americans
+3471|Maya, Yucatan
+3472|Nahuas
+3473|Quechua
+3474|Filipino
+3475|Indian, Mixed
+3476|Vietnamese
+3477|Han
+3478|Edo
+3479|Kanuri
+4035|Outer Mongolians
+4036|Tsaatan
+4254|Nebeur-Tunisia
+4255|Kesra-Tunisia
+4256|Kairoun-Tunisia
+4257|Sousse-Tunisia
+4258|Mehdia-Tunisia
+4259|Kerkennah-Tunisia
+4260|Smar South Tunisia
+4261|Lybia
+4310|Turkish
+4333|Turkish Cypriots

@@ -1,0 +1,96 @@
+1|Taiwanese Han
+2|Ami
+3|Hakka
+5|Biaka
+6|Mbuti
+7|Danes
+9|San Francisco Chinese
+10|Japanese
+11|Yakut
+12|Nasioi speakers
+13|Maya,Yucatec
+14|Surui,Rondonia
+15|Ethiopian Jews
+16|Yemenite Jews
+17|Adygei
+18|Finns
+19|Russians
+20|Mixed Europeans
+21|Atayal
+22|Cambodian
+23|Plains Amerindians
+25|Southwest Amerindians
+26|Mexican Pima
+27|Ticuna
+28|Karitiana
+36|Yoruba
+40|Kachari
+47|Druze
+55|Guihiba speakers
+57|Irish
+63|Micronesians
+69|Peruvian Quechuan
+72|Samoans
+77|Thoti
+84|Papuan New Guinean
+96|Roman Jews
+97|Malaysians
+98|Samaritans
+99|Ibo
+100|Hausa
+101|African Americans
+487|Chagga
+488|Khanty
+489|Komi-Zyrian
+490|Ashkenazi Jews
+491|Chuvash
+854|Masai
+936|Koreans
+1530|Russians,Archangel'sk
+1773|Sandawe
+1853|Lao Long
+1854|Keralite
+2023|Hungarians
+2137|Negroid Makrani
+2139|Mohannas
+2140|Hazaras
+2429|Khazaks
+2431|Inner Mongolians
+2432|Baima Dee
+2433|Qiang
+2434|Khamba Tibetan
+2586|Zaramo
+2765|Kuwaiti
+2766|Palestinian Arabs
+2767|Greeks
+2768|Sardinian
+2769|Italians
+2770|Lisongo
+2873|Pathan
+4035|Outer Mongolians
+4036|Tsaatan
+4254|Nebeur,Tunisia
+4255|Kesra,Tunisia
+4256|Kairoun,Tunisia
+4257|Sousse,Tunisia
+4258|Mehdia,Tunisia
+4259|Kerkennah,Tunisia
+4260|Smar, South Tunisia
+4261|Lybia
+4310|Turkish
+4333|Turkish Cypriots
+4454|Basque
+4509|Afro-Ecuadorian
+4510|Kichwa
+4519|Ecuadorian Mestizo
+4525|Mainland Japanese
+4526|Okinawa Japanese
+4616|Liangshan Tibetan
+4624|Chengdu Tibetans
+4625|Qinghai Tibetans
+4626|Yi(Sichuan)
+4633|Turks
+4634|Iranians
+4635|Danes
+4636|Somalis
+4653|Hui

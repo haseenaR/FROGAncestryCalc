@@ -1,0 +1,160 @@
+1|Taiwanese Han
+2|Ami
+3|Hakka
+5|Biaka
+6|Mbuti
+7|Danes
+9|San Francisco Chinese
+10|Japanese
+11|Yakut
+12|Nasioi speakers
+13|Maya-Yucatec
+14|Surui-Rondonia
+15|Ethiopian Jews
+16|Yemenite Jews
+17|Adygei
+18|Finns
+19|Russians
+20|Mixed Europeans
+21|Atayal
+22|Cambodian
+23|Plains Amerindians
+25|Southwest Amerindians
+26|Mexican Pima
+27|Ticuna
+28|Karitiana
+36|Yoruba
+40|Kachari
+47|Druze
+55|Guihiba speakers
+57|Irish
+63|Micronesians
+69|Peruvian Quechuan
+72|Samoans
+77|Thoti
+84|Papuan New Guinean
+96|Roman Jews
+97|Malaysians
+98|Samaritans
+99|Ibo
+100|Hausa
+101|African Americans
+487|Chagga
+488|Khanty
+489|Komi-Zyrian
+490|Ashkenazi Jews
+491|Chuvash
+854|Masai
+936|Koreans
+1530|Russians-Archangel'sk
+1773|Sandawe
+1853|Lao Long
+1854|Keralite
+2023|Hungarians
+2137|Negroid Makrani
+2138|Somali
+2139|Mohannas
+2140|Hazaras
+2429|Khazaks
+2431|Inner Mongolians
+2432|Baima Dee
+2433|Qiang
+2434|Khamba Tibetan
+2586|Zaramo
+2765|Kuwaiti
+2766|Palestinian Arabs
+2767|Greeks
+2768|Sardinian
+2770|Lisongo
+2873|Pathan
+4035|Outer Mongolians
+4036|Tsaatan
+4046|Luhya(LWK)
+4047|African American(ASW)
+4048|Yoruba(YRI)
+4049|Finns(FIN)
+4050|British(GBR)
+4057|Toscani(TSI)
+4058|Han Chinese(CHB)
+4059|Han Chinese(CHS)
+4060|Japanese(JPT)
+4108|Iberian(IBS)
+4238|Chinese Dai(CDX)
+4239|Bengali(BEB)
+4240|Punjabi(PJL)
+4241|Sri Lankan Tamil(STU)
+4243|Gambian(GWD)
+4244|Mende(MSL)
+4245|Peruvian(PEL)
+4246|Gujarati(GIH)
+4247|Telugu(ITU)
+4248|Esan(ESN)
+4249|Vietnamese(KHV)
+4250|Mixed Europeans(CEU)
+4254|Nebeur-Tunisia
+4255|Kesra-Tunisia
+4256|Kairoun-Tunisia
+4257|Sousse-Tunisia
+4258|Mehdia-Tunisia
+4259|Kerkennah-Tunisia
+4260|Smar-South Tunisia
+4261|Lybia
+4302|Tibetan(Tibet)
+4303|Mongols(Inner Mongolia)
+4304|Hui(Ningxia)
+4305|Han(Shaanxi)
+4306|Miao(Guizhou)
+4307|Han(Yunnan)
+4308|Li
+4309|Iranians
+4310|Turkish
+4311|Aboriginals
+4312|Dong(Guangxi)
+4313|Han(Guangdong)
+4314|Han(Guangzhou)
+4315|Jing(Guangxi)
+4316|Miao(Guangxi)
+4317|Hakka(Meizhou)
+4318|Han(Guangxi)
+4319|Tu
+4320|Han(Shandong)
+4321|Yi
+4322|Tibetans
+4323|Xibo
+4324|Kazak
+4325|Kirghiz
+4326|Tajiks
+4328|Va(Yunnan)
+4329|Dai
+4330|Bai
+4332|Va(Burma)
+4333|Turkish Cypriots
+4393|Saudi
+4394|UAE-Arabs
+4395|Yavapai
+4396|Greenlanders
+4454|Basque
+4509|Afro-Ecuadorian
+4510|Kichwa
+4519|Ecuadorian Mestizo
+4525|Mainland Japanese
+4526|Okinawa Japanese
+4616|Liangshan Tibetan
+4624|Chengdu Tibetans
+4625|Qinghai Tibetans
+4626|Yi(Sichuan)
+4633|Turks
+4634|Iranians
+4635|Danes
+4636|Somalis
+4637|Southern Tunisians
+4638|Chaldeans
+4639|Yazidis
+4640|Kurds
+4641|Arabs from Northern Iraq
+4642|Turkmen
+4643|Shabaks
+4644|Syriacs
+4645|Greek Cypriots
+4650|Norwegians
+4651|Qatari

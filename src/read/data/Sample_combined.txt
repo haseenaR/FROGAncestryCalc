@@ -1,0 +1,79 @@
+1|Taiwanese Han
+2|Ami
+3|Hakka
+5|Biaka
+6|Mbuti
+7|Danes
+9|San Francisco Chinese
+10|Japanese
+11|Yakut
+12|Nasioi speakers
+13|Maya,Yucatec
+14|Surui,Rondonia
+15|Ethiopian Jews
+16|Yemenite Jews
+17|Adygei
+18|Finns
+19|Russians
+20|Mixed Europeans
+21|Atayal
+22|Cambodian
+23|Plains Amerindians
+25|Southwest Amerindians
+26|Mexican Pima
+27|Ticuna
+28|Karitiana
+36|Yoruba
+40|Kachari
+47|Druze
+55|Guihiba speakers
+57|Irish
+63|Micronesians
+69|Peruvian Quechuan
+72|Samoans
+77|Thoti
+84|Papuan New Guinean
+96|Roman Jews
+97|Malaysians
+98|Samaritans
+99|Ibo
+100|Hausa
+101|African Americans
+487|Chagga
+488|Khanty
+489|Komi-Zyrian
+490|Ashkenazi Jews
+491|Chuvash
+854|Masai
+936|Koreans
+1530|Russians,Archangel'sk
+1773|Sandawe
+1853|Lao Long
+1854|Keralite
+2023|Hungarians
+2586|Zaramo
+2765|Kuwaiti
+2768|Sardinian
+4046|Luhya(LWK)
+4047|African American(ASW)
+4048|Yoruba(YRI)
+4049|Finns(FIN)
+4050|British(GBR)
+4057|Toscani(TSI)
+4058|Han Chinese(CHB)
+4059|Han Chinese(CHS)
+4060|Japanese(JPT)
+4108|Iberian(IBS)
+4238|Chinese Dai(CDX)
+4239|Bengali(BEB)
+4240|Punjabi(PJL)
+4241|Sri Lankan Tamil(STU)
+4242|Afro-Caribbean(ACB)
+4243|Gambian(GWD)
+4244|Mende(MSL)
+4245|Peruvian(PEL)
+4246|Gujarati(GIH)
+4247|Telugu(ITU)
+4248|Esan(ESN)
+4249|Vietnamese(KHV)
+4250|Mixed Europeans(CEU)
