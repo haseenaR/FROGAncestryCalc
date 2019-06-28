@@ -1,4 +1,4 @@
-he FROG-kb Ancestry Inference Batch Likelihood Computation Tool
+The FROG-kb Ancestry Inference Batch Likelihood Computation Tool
      Unzip the FROGAncestryCalc.zip file.
      NOTE: when you unzip the file, a folder called FROGAncestryCalc will be created.
  
