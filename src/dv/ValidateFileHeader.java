@@ -18,6 +18,11 @@ copies or substantial portions of the Software.
  * Version 1.0
  * Created by Haseena Rajeevan.
  */
+/**
+ * The ValidateFileHeader class implements validation of input file.
+ * Version 1.0
+ * Created by Haseena Rajeevan.
+ */
 package dv;
 
 import java.io.BufferedReader;
@@ -66,19 +71,19 @@ public class ValidateFileHeader {
                     //check count
                     if (stringG.length != 56) {
 
-                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all the 55 rsnumbers are listed.", errFile);
-                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all the 55 rsnumbers are listed.", workingLog);
+                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all the 55 rsnumbers are listed.", errFile);
+                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all the 55 rsnumbers are listed.", workingLog);
                         
                         if (record.indexOf(',') == -1) {
 
-                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not pipe delimited.\r\n ", errFile);
-                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - - Your input file is not pipe delimited.\r\n", workingLog);
+                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not comma delimited.\r\n ", errFile);
+                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - - Your input file is not comma delimited.\r\n", workingLog);
                         
                         } else {
 
                             if (countOccurrences(record, ',') < 55) {
-                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting pipes in your input file.\r\n ", errFile);
-                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting pipes in your input file.\r\n", workingLog);
+                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting commas in your input file.\r\n ", errFile);
+                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting commas in your input file.\r\n", workingLog);
                         
                             }
                         }
@@ -149,19 +154,19 @@ public class ValidateFileHeader {
                     stringG = record.split("\\,");
                     //check count
                     if (stringG.length != 129) {
-                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all 128 rsnumbers are listed.", errFile);
-                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all 128 rsnumbers are listed.", workingLog);
+                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all 128 rsnumbers are listed.", errFile);
+                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all 128 rsnumbers are listed.", workingLog);
                         
                         if (record.indexOf(',') == -1) {
 
-                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not pipe delimited.\r\n ", errFile);
-                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error- Your input file is not pipe delimited.\r\n ", workingLog);
+                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not comma delimited.\r\n ", errFile);
+                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error- Your input file is not comma delimited.\r\n ", workingLog);
 
                         } else {
 
                             if (countOccurrences(record, ',') < 128) {
-                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting pipes in your input file.\r\n ", errFile);
-                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting pipes in your input file.\r\n ", workingLog);
+                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting commas in your input file.\r\n ", errFile);
+                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting commas in your input file.\r\n ", workingLog);
 
                             }
                         }
@@ -230,18 +235,18 @@ public static int validateHeaders34(String homePath,String inputFile, Hashtable<
                     //check count
                     if (stringG.length != 35) {
 
-                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all 34 rsnumbers are listed.", errFile);
-                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all 34 rsnumbers are listed.  ",workingLog);
+                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all 34 rsnumbers are listed.", errFile);
+                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all 34 rsnumbers are listed.  ",workingLog);
                         if (record.indexOf(',') == -1) {
 
-                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not pipe delimited.\r\n ", errFile);
-                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Your input file is not pipe delimited.  ",workingLog);
+                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not comma delimited.\r\n ", errFile);
+                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Your input file is not comma delimited.  ",workingLog);
                         
                         } else {
 
                             if (countOccurrences(record, ',') < 34) {
-                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting pipes in your input file.\r\n ", errFile);
-                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting pipes in your input file.  ",workingLog);
+                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting commas in your input file.\r\n ", errFile);
+                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting commas in your input file.  ",workingLog);
                         
                             }
                         }
@@ -311,19 +316,19 @@ public static int validateHeadersCombined(String homePath,String inputFile, Hash
                     //check count
                     if (stringG.length != 193) {
 
-                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all 192 rsnumbers are listed.", errFile);
-                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all 192 rsnumbers are listed. ",workingLog);
+                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all 192 rsnumbers are listed.", errFile);
+                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all 192 rsnumbers are listed. ",workingLog);
         
                         if (record.indexOf(',') == -1) {
 
-                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not pipe delimited.\r\n ", errFile);
-                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Your input file is not pipe delimited. ",workingLog);
+                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not comma delimited.\r\n ", errFile);
+                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Your input file is not comma delimited. ",workingLog);
         
                         } else {
 
                             if (countOccurrences(record, ',') < 192) {
-                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting pipes in your input file.\r\n ", errFile);
-                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting pipes in your input file. ",workingLog);
+                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting commas in your input file.\r\n ", errFile);
+                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting commas in your input file. ",workingLog);
         
                             }
                         }
@@ -516,19 +521,19 @@ public static int validateHeadersCombined(String homePath,String inputFile, Hash
                     //check count
                     if (stringG.length != 166) {
 
-                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all 165 rsnumbers are listed.", errFile);
-                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is pipe delimited.\r\nMake sure all 165 rsnumbers are listed.  ",workingLog);
+                        WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all 165 rsnumbers are listed.", errFile);
+                        WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Check you input file.\r\nMake sure it is comma delimited.\r\nMake sure all 165 rsnumbers are listed.  ",workingLog);
         
                         if (record.indexOf(',') == -1) {
 
-                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not pipe delimited.\r\n ", errFile);
-                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Your input file is not pipe delimited.\r\n ", workingLog);
+                            WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - Your input file is not comma delimited.\r\n ", errFile);
+                            WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - Your input file is not comma delimited.\r\n ", workingLog);
 
                         } else {
 
                             if (countOccurrences(record, ',') < 165) {
-                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting pipes in your input file.\r\n ", errFile);
-                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting pipes in your input file.\r\n ", workingLog);
+                                WriteToOutputFile.WriteToErrFile(homePath,timeStamp+" - You are either missing columns or de-limiting commas in your input file.\r\n ", errFile);
+                                WriteToOutputFile.WriteToWorkingLog(homePath,timeStamp+" - Error - You are either missing columns or de-limiting commas in your input file.\r\n ", workingLog);
 
                             }
                         }
